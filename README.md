@@ -4,7 +4,7 @@
 
 1. To add a new short link, add an issue with the title being the link you want
    to shorten (including the `http(s)://`) to
-   [https://github.com/SamirPaul1/url/issues](https://github.com/SamirPaul1/url/issues).
+   [https://github.com/SamirPaulb/url/issues](https://github.com/SamirPaulb/url/issues).
 
 2. The newly created short url can be accessed via `samirpaul.in/url/{issue_number}`
 
